@@ -11,7 +11,7 @@ I am Maulik Patel and I have completed my B.Tech-Computer Engineering with Speci
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/maulik_0902/)](https://www.instagram.com/maulik_0902/)
 
-
+[![Maulik's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maulikpatel9991&bg_color=000000&color=ffffff&line=51c85f&point=303030&area=true&hide_border=true)](https://github.com/maulikpatel9991/)
 
 <!-- ## 👨🏻‍💻 Coding Profiles
 
