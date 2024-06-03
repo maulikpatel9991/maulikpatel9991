@@ -1,17 +1,17 @@
-# Hi, I am Maulik Patel! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
+# Hi, I am Maulik Patel! Great to see you here! 
 
 <div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=maulikpatel9991&label=Profile%20views&color=0e75b6&style=flat" alt="" />Maulik
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maulikpatel9991&label=Profile%20views&color=0e75b6&style=flat" alt="Maulik" />
 </div> 
 
 I am Maulik Patel and I have completed my B.Tech-Computer Engineering with Specialization of Python. According to me, there is nothing greater than finding opportunities for smart people to do awesome things, it's a fantastic process that I feel lucky to participate in.
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wwwpatelmaulik9991@gmail.com)](mailto:mailforpatelmaulik9991@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maulik-patel-04a122198/)](https://www.linkedin.com/in/maulik-patel-04a122198/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)]
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/maulik_0902/)](https://www.instagram.com/maulik_0902/)
 
-[![Maulik's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maulikpatel9991&bg_color=000000&color=ffffff&line=51c85f&point=303030&area=true&hide_border=true)](https://github.com/maulikpatel9991/)
+[![Maulik's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maulikpatel9991&bg_color=000000&color=ffffff&line=51c85f&point=303030&area=true&hide_border=true&custom_title=Maulik's%20GitHub%20Activity&hide_total_contributions=true&hide_legend=true)](https://github.com/maulikpatel9991/)
+
 
 <!-- ## 👨🏻‍💻 Coding Profiles
 
