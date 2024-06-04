@@ -6,6 +6,7 @@
 
 I am Maulik Patel and I have completed my B.Tech-Computer Engineering with Specialization of Python. According to me, there is nothing greater than finding opportunities for smart people to do awesome things, it's a fantastic process that I feel lucky to participate in.
 
+[![HackerRank Profile](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/patelmaulik9991)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wwwpatelmaulik9991@gmail.com)](mailto:mailforpatelmaulik9991@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maulik-patel-04a122198/)](https://www.linkedin.com/in/maulik-patel-04a122198/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/maulik_0902/)](https://www.instagram.com/maulik_0902/)
